@@ -1,5 +1,5 @@
 2. Github
-   https://github.com/Kumbirai-Bodzo/vggkbs
+   https://github.com/r178503n/vggkbs
 
 3. Heroku Link
    https://docking-vggkbs.herokuapp.com/
